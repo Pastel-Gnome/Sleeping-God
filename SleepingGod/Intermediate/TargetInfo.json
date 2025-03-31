@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SleepingGod",
+			"Path": "..\\Source\\SleepingGod.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SleepingGodEditor",
+			"Path": "..\\Source\\SleepingGodEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

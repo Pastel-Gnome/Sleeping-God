@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\oulis\\documents\\unreal projects\\sleepinggod\\intermediate\\build\\win64\\unrealeditor\\inc\\sleepinggod\\uht\\sleepinggodweaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\oulis\\documents\\unreal projects\\sleepinggod\\intermediate\\build\\win64\\x64\\sleepinggodeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\oulis\\documents\\unreal projects\\sleepinggod\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sleepinggod\\definitions.sleepinggod.h",
+            "c:\\users\\oulis\\documents\\unreal projects\\sleepinggod\\source\\sleepinggod\\sleepinggodweaponcomponent.h",
+            "c:\\users\\oulis\\documents\\unreal projects\\sleepinggod\\intermediate\\build\\win64\\unrealeditor\\inc\\sleepinggod\\uht\\sleepinggodweaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

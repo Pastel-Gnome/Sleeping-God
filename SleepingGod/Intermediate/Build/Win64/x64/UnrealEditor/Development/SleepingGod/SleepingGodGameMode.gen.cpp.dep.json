@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\oulis\\documents\\unreal projects\\sleepinggod\\intermediate\\build\\win64\\unrealeditor\\inc\\sleepinggod\\uht\\sleepinggodgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\oulis\\documents\\unreal projects\\sleepinggod\\intermediate\\build\\win64\\x64\\sleepinggodeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\oulis\\documents\\unreal projects\\sleepinggod\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sleepinggod\\definitions.sleepinggod.h",
+            "c:\\users\\oulis\\documents\\unreal projects\\sleepinggod\\source\\sleepinggod\\sleepinggodgamemode.h",
+            "c:\\program files (x86)\\epic\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files (x86)\\epic\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files (x86)\\epic\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files (x86)\\epic\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\oulis\\documents\\unreal projects\\sleepinggod\\intermediate\\build\\win64\\unrealeditor\\inc\\sleepinggod\\uht\\sleepinggodgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
